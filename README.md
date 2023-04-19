@@ -1,1 +1,2 @@
 # soloproject_cardio
+This is the app for trainers who are suffering every day to make NYC rich clients to motivate cardio. We trainers all know we don't have any magic wands.  Since they are "busy" and can't make any commitment, this app has only 2 days schedule, today and tomorrow.  Just with 15min bouts of typical New Yorkers daily activities with spice, your clients meet all FDA cardio guideline WITHOUT pressure and excuse.
